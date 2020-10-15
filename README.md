@@ -1,2 +1,1 @@
-# html-sample.com
-html-sample.com website
+# [html-sample.com](https://html-sample.com)
