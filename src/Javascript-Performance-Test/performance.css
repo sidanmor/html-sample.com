@@ -1,0 +1,53 @@
+body {
+    padding-top: 4rem;
+}
+
+.starter-template {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#commonsEditor {
+    height: 140px;
+    width: 100%;
+    border: solid 1px;
+    margin-bottom: 20px;
+}
+
+#leftEditor {
+    height: 160px;
+    width: 100%;
+    border: solid 1px;
+}
+
+#rightEditor {
+    height: 160px;
+    width: 100%;
+    border: solid 1px;
+}
+
+.cursor-progress {
+    cursor: progress;
+}
+
+.winner {
+    outline: auto;
+    outline-color: green;
+}
+
+#runTest {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.entry:not(:first-of-type) {
+    margin-top: 10px;
+}
+
+.glyphicon {
+    font-size: 12px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
